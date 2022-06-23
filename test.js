@@ -1,4 +1,2 @@
 
-    
-         alert('load');
       
